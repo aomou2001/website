@@ -5,24 +5,7 @@ heading: "小論"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-01T05:59:48.582571500+00:00">更新 2026-10-01 14:59</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 100%" title="PageRank 0.104969"><i style="width:100.00%"></i></span><div class="garden-body" markdown="1">
-
-[なくしたもののための目録]({{ '/garden/inventory-of-lost/' | relative_url }})
-
-[似非論理]({{ '/garden/pseudo-logic/' | relative_url }})
-
-[何を、どこに、なぜつくるのか]({{ '/garden/make-what-where-why/' | relative_url }})
-
-[作ることと見ること]({{ '/garden/note-2026_interest2/' | relative_url }})
-
-[現在を歴史的にながめる眼差し]({{ '/garden/viewing-present-historically/' | relative_url }})
-
-[記録と解釈について]({{ '/garden/recod-and-regognition/' | relative_url }})
-
-建築批判と実践の方向
-
-なぜリミナルスペースか？――バックルーム・ファウンドフッテージの背景と美学
-
+<article class="garden-note-reader"><time datetime="2026-10-18T06:51:11.556967400+00:00">更新 2026-10-18 15:51</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 83%" title="PageRank 0.106148"><i style="width:83.21%"></i></span><div class="garden-body" markdown="1">
 
 ## ページリンク
 
@@ -30,7 +13,6 @@ hide_description: true
 - [似非論理]({{ '/garden/pseudo-logic/' | relative_url }})
 - [何を、どこに、なぜつくるのか]({{ '/garden/make-what-where-why/' | relative_url }})
 - [作ることと見ること]({{ '/garden/note-2026_interest2/' | relative_url }})
-- [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 - [無意識的な場所の意味と、その共有について]({{ '/garden/note-2026_interest/' | relative_url }})
 - [現在を歴史的にながめる眼差し]({{ '/garden/viewing-present-historically/' | relative_url }})
 - [記録と解釈について]({{ '/garden/recod-and-regognition/' | relative_url }})

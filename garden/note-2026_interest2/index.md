@@ -5,7 +5,7 @@ heading: "作ることと見ること"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-14T01:34:17.456483900+00:00">更新 2026-10-14 10:34</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 48%" title="PageRank 0.050510"><i style="width:48.12%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T06:48:51.523786+00:00">更新 2026-10-18 15:48</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 39%" title="PageRank 0.050085"><i style="width:39.26%"></i></span><div class="garden-body" markdown="1">
 
 ## 関心と方向性について
 
@@ -28,12 +28,6 @@ hide_description: true
 - [小論]({{ '/garden/miscellaneous-notes/' | relative_url }})
 - [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 - [無意識的な場所の意味と、その共有について]({{ '/garden/note-2026_interest/' | relative_url }})
-
-
-## このページへの言及
-
-- [小論]({{ '/garden/miscellaneous-notes/' | relative_url }})
-- [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 
 </div></article>
 <script src="{{ '/assets/garden-notes.js' | relative_url }}" defer></script>

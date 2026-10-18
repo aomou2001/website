@@ -5,31 +5,18 @@ heading: "Gardenのナビゲーション"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-09-18T05:55:13.972661900+00:00">更新 2026-09-18 14:55</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 40%" title="PageRank 0.042247"><i style="width:40.25%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T07:01:25.541792+00:00">更新 2026-10-18 16:01</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 32%" title="PageRank 0.040258"><i style="width:31.56%"></i></span><div class="garden-body" markdown="1">
 
-ゲーム
+[梅田航輝]({{ '/garden/umedakouki/' | relative_url }})
 
 [プラントショップ]({{ '/garden/plantshop/' | relative_url }})
 
-人物
+[小論]({{ '/garden/miscellaneous-notes/' | relative_url }})
 
-修士研究 0912-
+感想
 
 [個人ウェブサイト集]({{ '/garden/personal-website/' | relative_url }})
 
-好きなYouTube
-
-[小論]({{ '/garden/miscellaneous-notes/' | relative_url }})
-
-建築
-
-映像
-
-映画
-
-本
-
-[梅田航輝]({{ '/garden/umedakouki/' | relative_url }})
 
 ## ページリンク
 

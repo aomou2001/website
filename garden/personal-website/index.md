@@ -5,7 +5,7 @@ heading: "個人ウェブサイト集"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-10T17:47:52.974526900+00:00">更新 2026-10-11 02:47</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 49%" title="PageRank 0.051240"><i style="width:48.81%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T06:54:49.513428800+00:00">更新 2026-10-18 15:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 23%" title="PageRank 0.029060"><i style="width:22.78%"></i></span><div class="garden-body" markdown="1">
 
 ## ego
 
@@ -35,15 +35,14 @@ yuinoid / いど子：<https://yuinoid.neocities.org/>
 
 ## ページリンク
 
-- [Gardenの思想]({{ '/garden/garden-thought/' | relative_url }})
 - [いいサイト集]({{ '/garden/good-site/' | relative_url }})
 - [個人ウェブサイトの時代]({{ '/garden/personal-website-era/' | relative_url }})
 
 
 ## このページへの言及
 
-- [個人ウェブサイトの時代]({{ '/garden/personal-website-era/' | relative_url }})
 - [Gardenのナビゲーション]({{ '/garden/garden-navigation/' | relative_url }})
+- [個人ウェブサイトの時代]({{ '/garden/personal-website-era/' | relative_url }})
 
 </div></article>
 <script src="{{ '/assets/garden-notes.js' | relative_url }}" defer></script>
