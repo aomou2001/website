@@ -5,29 +5,29 @@ heading: "Gardenのナビゲーション"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-09-18T05:55:13.972661900+00:00">更新 2026-09-18 14:55</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 15%" title="PageRank 0.008782"><i style="width:14.64%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-09-18T05:55:13.972661900+00:00">更新 2026-09-18 14:55</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 40%" title="PageRank 0.042247"><i style="width:40.25%"></i></span><div class="garden-body" markdown="1">
 
-[ゲーム]({{ '/garden/game/' | relative_url }})
+ゲーム
 
 [プラントショップ]({{ '/garden/plantshop/' | relative_url }})
 
-[人物]({{ '/garden/person/' | relative_url }})
+人物
 
 修士研究 0912-
 
 [個人ウェブサイト集]({{ '/garden/personal-website/' | relative_url }})
 
-[好きなYouTube]({{ '/garden/favorite-youtube/' | relative_url }})
+好きなYouTube
 
 [小論]({{ '/garden/miscellaneous-notes/' | relative_url }})
 
-[建築]({{ '/garden/architecture/' | relative_url }})
+建築
 
-[映像]({{ '/garden/video-thoutht/' | relative_url }})
+映像
 
-[映画]({{ '/garden/movie-inpression/' | relative_url }})
+映画
 
-[本]({{ '/garden/book/' | relative_url }})
+本
 
 [梅田航輝]({{ '/garden/umedakouki/' | relative_url }})
 

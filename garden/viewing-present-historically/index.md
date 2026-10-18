@@ -5,7 +5,7 @@ heading: "現在を歴史的にながめる眼差し"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-09-18T11:54:09.755251+00:00">更新 2026-09-18 20:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 18%" title="PageRank 0.011051"><i style="width:18.42%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-09-18T11:54:09.755251+00:00">更新 2026-09-18 20:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 50%" title="PageRank 0.052493"><i style="width:50.01%"></i></span><div class="garden-body" markdown="1">
 
 身体を持ったひとりの人間は、あまりに多様な、多量の情報の入力に対して、なんとなくそれに合わせながらぷかぷかと生きている。「なんとなく」の中身は認知科学などの見識に任せるとして、ではそうして生きている現在の状況はどのように解釈したらいいのだろうか、ということに私は関心がある。
 
@@ -15,7 +15,7 @@ hide_description: true
 
 要は、昔はこうだった、こういうことが起こった、というような断片を解釈しやすい状態にした固定的な物語にしていくのではなく、そうした多様・多量の断片を解釈しきれない状態のまま保存していき、そうしたオチのないアーカイブの端っこに現在があることを想像するようなあり方があるのではないか。
 
-とはいえ、大きな物語で語り継いでいきやすい歴史というものは、人をまとめていく上で制度的に扱いやすいし、その物語をつむいでいく現在という見方は直感的で理解しやすい。だが、展開がよく分らない、オチがわからない[映画]({{ '/garden/movie-inpression/' | relative_url }})のシーンが印象的に残っていることがあるのと同じように、現在を構成する無数の断片の、なんでもなさを大事に拾い集めていきたい。
+とはいえ、大きな物語で語り継いでいきやすい歴史というものは、人をまとめていく上で制度的に扱いやすいし、その物語をつむいでいく現在という見方は直感的で理解しやすい。だが、展開がよく分らない、オチがわからない映画のシーンが印象的に残っていることがあるのと同じように、現在を構成する無数の断片の、なんでもなさを大事に拾い集めていきたい。
 
 <br />
 
@@ -32,8 +32,6 @@ hide_description: true
 ## このページへの言及
 
 - [小論]({{ '/garden/miscellaneous-notes/' | relative_url }})
-- [映画]({{ '/garden/movie-inpression/' | relative_url }})
-- [以前noteに投稿していた記事]({{ '/garden/previously-posted-note-article/' | relative_url }})
 
 </div></article>
 <script src="{{ '/assets/garden-notes.js' | relative_url }}" defer></script>

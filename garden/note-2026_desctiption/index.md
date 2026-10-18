@@ -5,7 +5,7 @@ heading: "場所の記述についての習作"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-09-18T03:38:02.301822+00:00">更新 2026-09-18 12:38</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 17%" title="PageRank 0.010270"><i style="width:17.12%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-09-18T03:38:02.301822+00:00">更新 2026-09-18 12:38</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 37%" title="PageRank 0.039049"><i style="width:37.20%"></i></span><div class="garden-body" markdown="1">
 
 * [シリーズ1（YouTube）](https://youtu.be/wbiqQ-mI8yw)
 
@@ -41,7 +41,7 @@ hide_description: true
 
   「remo NPO法人 記録と表現とメディアのための組織」という組織がある。そこで行われていた「remoscope」という一連のワークショップに興味を持った。（[「remoscope」についての公式サイト](https://www.remo.or.jp/ja/project/remoscope/)）
 
-  remoscopeは、「固定カメラ・無音・無加工・無編集・ズーム無し・最長一分」というリュミエール・ルールに従って撮影された[映像]({{ '/garden/video-thoutht/' | relative_url }})を集め、その映像を持ち寄って上映し、語り合う場がつくられる。初心者でも経験者でも作品を創作し、発表し、互いに鑑賞できる。日常的に見過ごしている場所に新しい発見がありうること、そして映像を切り取ることで日常の中にある動画メディアの役割や可能性、映像文法そのものを再考することが目的として示されている。
+  remoscopeは、「固定カメラ・無音・無加工・無編集・ズーム無し・最長一分」というリュミエール・ルールに従って撮影された映像を集め、その映像を持ち寄って上映し、語り合う場がつくられる。初心者でも経験者でも作品を創作し、発表し、互いに鑑賞できる。日常的に見過ごしている場所に新しい発見がありうること、そして映像を切り取ることで日常の中にある動画メディアの役割や可能性、映像文法そのものを再考することが目的として示されている。
 
 * [シリーズ7](https://umedakouki.work/practice/description/7/index.html)
 
@@ -66,18 +66,13 @@ hide_description: true
 ## ページリンク
 
 - [作ることと見ること]({{ '/garden/note-2026_interest2/' | relative_url }})
-- [建築]({{ '/garden/architecture/' | relative_url }})
 - [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 - [無意識的な場所の意味と、その共有について]({{ '/garden/note-2026_interest/' | relative_url }})
-- [生きられた場所]({{ '/garden/lived-place/' | relative_url }})
 
 
 ## このページへの言及
 
-- [映像]({{ '/garden/video-thoutht/' | relative_url }})
 - [無意識的な場所の意味と、その共有について]({{ '/garden/note-2026_interest/' | relative_url }})
-- [建築]({{ '/garden/architecture/' | relative_url }})
-- [生きられた場所]({{ '/garden/lived-place/' | relative_url }})
 - [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 
 </div></article>

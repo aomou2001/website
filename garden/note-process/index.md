@@ -5,13 +5,13 @@ heading: "『GELEL』での作業プロセス"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-09-18T11:54:09.658794+00:00">更新 2026-09-18 20:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 20%" title="PageRank 0.012223"><i style="width:20.38%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-09-18T11:54:09.658794+00:00">更新 2026-09-18 20:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 17%" title="PageRank 0.018303"><i style="width:17.44%"></i></span><div class="garden-body" markdown="1">
 
 [『GELEL』](https://umedakouki.work/works/gelel.html)
 
 ## 美術製作前夜（2024年2月～2025年1月）
 
-[映像研究会オリヲン座]({{ '/garden/film-club-orion/' | relative_url }})で森監督が特撮を作ると常々言っていたのでかなりゆきで関わることになった。特撮の美術に多少興味があり、他にやりそうな人もいなかったため担当した。美術については、立体造形や建築模型制作の経験があったため、比較的スムーズにできたと思う。照明、撮影、合成まで担当するつもりはなかったが、人手不足だったためやらざるを得なかった。
+映像研究会オリヲン座で森監督が特撮を作ると常々言っていたのでかなりゆきで関わることになった。特撮の美術に多少興味があり、他にやりそうな人もいなかったため担当した。美術については、立体造形や建築模型制作の経験があったため、比較的スムーズにできたと思う。照明、撮影、合成まで担当するつもりはなかったが、人手不足だったためやらざるを得なかった。
 
 詳細な設定や脚本が決まる前は、シーンのスケッチ、ロケハン、建物の試作、セットの設計をしていた。限られた予算で最大効果を出せる量、質を考えたり、破壊する建物の部材の試作や材料の調達を進めていた。問題は継続して作業と保管ができるスペースで、初めの頃は大学の実習室や倉庫、教室を利用した時期があった。2024年12月にオリヲン座がある程度の広さがある部室に移動したため、そこで作業と保管をすることにした。参加していたのは合計で10人ほどで、作業内容はほとんど私が指示していた。
 
@@ -59,7 +59,7 @@ hide_description: true
 
 <span class="garden-media garden-image"><img src="{{ '/assets/garden/78560533-4dff-576b-a20f-bd93acc46e5d.jpg' | relative_url }}" alt="17.jpg" loading="lazy"></span>
 
-下の動画は、作業の様子をメイキング[映像]({{ '/garden/video/' | relative_url }})的に編集したもの。
+下の動画は、作業の様子をメイキング映像的に編集したもの。
 
 [動画を見る](https://www.youtube.com/watch?v=18W7YTAloqg)
 
@@ -81,7 +81,7 @@ hide_description: true
 
 ## 合成（2025年11月～12月）
 
-合成は、屋内撮影素材に空を合成したり、被写体と背景が別々の素材を合成したり、画面に映り込んでいる余計なものを消したりする作業を担当した。撮影時に合成を見越して撮っていた素材などもあり、スムーズに作業に移ることができた。作業は11月の松ヶ崎祭（大学祭）での初公開時と、12月初めの自主怪獣[映画]({{ '/garden/movie-inpression/' | relative_url }})選手権へのエントリー前に集中して行った。基本的には監督やCG統括の指示に従いながら、合成の違和感をできるだけなくしていくことを目指していた。ソフトは主にPremiere Proを使い、クロマキー合成とトリミング、キーフレームを駆使して地道に作業した。
+合成は、屋内撮影素材に空を合成したり、被写体と背景が別々の素材を合成したり、画面に映り込んでいる余計なものを消したりする作業を担当した。撮影時に合成を見越して撮っていた素材などもあり、スムーズに作業に移ることができた。作業は11月の松ヶ崎祭（大学祭）での初公開時と、12月初めの自主怪獣映画選手権へのエントリー前に集中して行った。基本的には監督やCG統括の指示に従いながら、合成の違和感をできるだけなくしていくことを目指していた。ソフトは主にPremiere Proを使い、クロマキー合成とトリミング、キーフレームを駆使して地道に作業した。
 
 ## 振り返って
 
@@ -95,14 +95,10 @@ hide_description: true
 ## ページリンク
 
 - [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
-- [映像研究会オリヲン座]({{ '/garden/film-club-orion/' | relative_url }})
 
 
 ## このページへの言及
 
-- [映像]({{ '/garden/video-thoutht/' | relative_url }})
-- [映画]({{ '/garden/movie-inpression/' | relative_url }})
-- [建築]({{ '/garden/architecture/' | relative_url }})
 - [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 
 </div></article>
