@@ -5,7 +5,7 @@ heading: "『GELEL』での作業プロセス"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T06:48:51.523786+00:00">更新 2026-10-18 15:48</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 13%" title="PageRank 0.016674"><i style="width:13.07%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T06:48:51.523786+00:00">更新 2026-10-18 15:48</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 13%" title="PageRank 0.017593"><i style="width:12.87%"></i></span><div class="garden-body" markdown="1">
 
 [『GELEL』](https://umedakouki.work/works/gelel.html)
 

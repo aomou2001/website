@@ -5,7 +5,7 @@ heading: "生成AIを活用した個人用アプリ群の設計と開発"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T11:42:12.976615100+00:00">更新 2026-10-18 20:42</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 51%" title="PageRank 0.065011"><i style="width:50.97%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T11:49:20.937418800+00:00">更新 2026-10-18 20:49</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 7%" title="PageRank 0.009769"><i style="width:7.14%"></i></span><div class="garden-body" markdown="1">
 
 以下の記事は画像含め全文ChatGPTによるものである。
 
@@ -21,7 +21,7 @@ Garden、Collection Record、Spatiography、Monitolog、Phonolog、Diary、GPT C
 
 ## Garden――考えに、いくつもの入口を作る
 
-Gardenは、文章同士をリンクで結んでいく個人用のWikiだ。この文章を置いている場所でもある。映画の感想、研究のメモ、気になる人物、まだうまく説明できない考えを、同じ「ページ」として扱う。
+[Garden]({{ '/garden/garden/' | relative_url }})は、文章同士をリンクで結んでいく個人用のWikiだ。この文章を置いている場所でもある。映画の感想、研究のメモ、気になる人物、まだうまく説明できない考えを、同じ「ページ」として扱う。
 
 たとえば、ある映画について書いていたら、以前読んだ本のことが気になった。その本から建築についてのメモへ移り、そこから自分の制作について考え始める。こうした寄り道を残しておくと、一つの文章が複数の入口を持つ。最初に入れたフォルダを思い出す代わりに、いま気になっていることから近づける。
 
@@ -31,7 +31,9 @@ Gardenは、文章同士をリンクで結んでいく個人用のWikiだ。こ�
 
 工夫したのは、書くことと結びつけることを、同じ画面で続けられるようにすることだ。本文中の参照に加えて、ページ同士の強い関係を「ページリンク」として残せる。逆にどこから参照されているかもたどれるので、自分が一つの言葉をどう使ってきたかが見えてくる。
 
-短いメモのまま置き、後で書き足してもいい。公開するページと手元に置くページも、同じ場所で扱える。原本は自分のPCにMarkdownというテキスト形式で保存する。考えが変わったときも、使う道具が変わったときも、そこから続きを始められるようにしておきたい。「庭」という名前には、手を入れ続けられる場所としての感覚がある。
+短いメモのまま置き、後で書き足してもいい。原本は自分のPCにMarkdownというテキスト形式で保存する。考えが変わったときも、使う道具が変わったときも、そこから続きを始められるようにしておきたい。「庭」という名前には、手を入れ続けられる場所としての感覚がある。
+
+蓄積したページの一部は、個人ウェブサイト[umedakouki.work](https://umedakouki.work/)のGardenで公開している。アプリ内でページごとに公開・非公開を選び、「公開を更新」すると、公開対象のページがサイトに反映される。訪れた人は、ブラウザから文章を読み、公開されたページ同士のリンクをたどれる。手元で考えを育てる場所と、人に読んでもらう場所をつなぐことで、書き足したり結び直したりする日々の手入れを、そのままウェブサイトにも反映できるようにした。
 
 <span class="garden-media garden-image"><img src="{{ '/assets/garden/39f08670-ed93-477d-8d36-784ccb98afc4.jpg' | relative_url }}" alt="Gardenのページ画面" loading="lazy"></span>
 
@@ -119,7 +121,9 @@ Diaryは、日付ごとに読み書きする日記アプリだ。日付の一覧
 
 *日付の一覧と本文。映画について考えたことも、その日の記録として置いておける。*
 
-公開・非公開を選び、保存したうえでサイトに反映する。書くことと、人に見せることを、自分で選べる手順にした。保存時のバックアップや、ごみ箱からの復元も用意した。毎日触れる道具では、書き始めやすさと同じくらい、書いた後に扱い直せることが大切だと思う。
+日記も、その一部を個人ウェブサイト[umedakouki.work](https://umedakouki.work/)のDiaryで公開している。アプリは手元で読み書きするための場所、ウェブサイトは選んだ日記を人に読んでもらうための場所になる。新しく書いた日記は非公開で保存し、公開するものを選んで「サイトに反映」すると、その内容がウェブサイトにも掲載される。日記を書く流れのなかで、どこまで人に見せるかを自分で決められるようにした。
+
+Gardenでは話題や関心を手がかりに文章をたどり、Diaryでは日付に沿って、そのときどきの考えや出来事を読む。二つのアプリから同じウェブサイトへ公開することで、訪れた人にも、関心のつながりと時間の流れという二つの入口を用意できる。保存時のバックアップや、ごみ箱からの復元も用意した。毎日触れる道具では、書き始めやすさと同じくらい、書いた後に扱い直せることが大切だと思う。
 
 <span class="garden-media garden-image"><img src="{{ '/assets/garden/13d5a7c2-12c5-46c3-82ee-026c5ed55208.jpg' | relative_url }}" alt="Diaryの短い日記" loading="lazy"></span>
 
@@ -156,13 +160,6 @@ AIが書いたものなので、その解釈を自分や記録の正解にする
 ***
 
 *画面は2026年10月18日撮影。機能の説明は同日時点のアプリ画面とローカル資料に基づく。本文は、[Gardenの思想]({{ '/garden/garden-thought/' | relative_url }})、[記録と解釈について]({{ '/garden/recod-and-regognition/' | relative_url }})など、これまでの記述を手がかりに構成した草稿。*
-
-
-## ページリンク
-
-- [Garden]({{ '/garden/garden/' | relative_url }})
-- [Gardenの思想]({{ '/garden/garden-thought/' | relative_url }})
-- [記録と解釈について]({{ '/garden/recod-and-regognition/' | relative_url }})
 
 </div></article>
 <script src="{{ '/assets/garden-notes.js' | relative_url }}" defer></script>

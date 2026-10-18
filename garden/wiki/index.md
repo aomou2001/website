@@ -5,7 +5,7 @@ heading: "Wiki"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T06:54:54.002968600+00:00">更新 2026-10-18 15:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 49%" title="PageRank 0.062623"><i style="width:49.09%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T06:54:54.002968600+00:00">更新 2026-10-18 15:54</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 64%" title="PageRank 0.087047"><i style="width:63.66%"></i></span><div class="garden-body" markdown="1">
 
 Wikiは、複数のページを簡単に作成・編集し、それらをリンクで結びながら情報を蓄積する仕組みです。代表例はWikipediaですが、Wikiそのものは百科事典に限らず、個人メモ、社内文書、研究記録などにも使えます。
 

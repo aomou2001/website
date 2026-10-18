@@ -5,7 +5,7 @@ heading: "小論"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T06:51:11.556967400+00:00">更新 2026-10-18 15:51</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 83%" title="PageRank 0.106148"><i style="width:83.21%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T06:51:11.556967400+00:00">更新 2026-10-18 15:51</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 74%" title="PageRank 0.100961"><i style="width:73.84%"></i></span><div class="garden-body" markdown="1">
 
 ## ページリンク
 
