@@ -57,7 +57,8 @@ li + li { margin-top: .6em; }
 .page { min-width: 0; }
 .page-header { margin-bottom: 48px; padding-bottom: 28px; border-bottom: 1px solid #111; }
 .page-header h1 { font-size: 3.4rem; }
-.page-kicker { margin: 0 0 12px; font-size: .7rem; font-weight: 700; letter-spacing: 0; }
+.home-title { display: inline-flex; flex-direction: column; align-items: center; }
+.page-kicker { margin: 0 0 2px; font-size: .9rem; font-weight: 400; line-height: 1.2; letter-spacing: .16em; }
 .page-description { max-width: 38em; margin: 16px 0 0; color: #444; font-size: .94rem; }
 .breadcrumb { display: flex; flex-wrap: wrap; gap: 8px; margin: -26px 0 40px; color: #555; font-size: .75rem; }
 .section { padding: 32px 0; }
