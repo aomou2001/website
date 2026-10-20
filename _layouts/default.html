@@ -40,7 +40,6 @@
         <div class="page">
             <header class="page-header">
                 <div class="page-title{% if page.url == '/' %} home-title{% endif %}">
-                    {% if page.url == '/' %}<span class="page-kicker">梅田航輝</span>{% endif %}
                     <h1>{% if page.layout == 'post' %}{{ page.date | date: "%Y.%m.%d" }}{% else %}{{ page.heading | default: resolved_title | escape }}{% endif %}</h1>
                 </div>
                 {% if page.description and page.url != '/' and page.hide_description != true %}<p class="page-description">{{ page.description | escape }}</p>{% endif %}
