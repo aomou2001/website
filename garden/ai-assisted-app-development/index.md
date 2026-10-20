@@ -5,7 +5,7 @@ heading: "生成AIを活用した個人用アプリ群の設計と開発"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T11:49:20.937418800+00:00">更新 2026-10-18 20:49</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 7%" title="PageRank 0.009769"><i style="width:7.14%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T11:49:20.937418800+00:00">更新 2026-10-18 20:49</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 7%" title="PageRank 0.008467"><i style="width:6.88%"></i></span><div class="garden-body" markdown="1">
 
 以下の記事は画像含め全文ChatGPTによるものである。
 

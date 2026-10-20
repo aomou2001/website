@@ -1,17 +1,18 @@
 ---
 layout: default
-title: "いいサイト集"
-heading: "いいサイト集"
+title: "いいサイト"
+heading: "いいサイト"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-06T00:26:10.627845400+00:00">更新 2026-10-06 09:26</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 13%" title="PageRank 0.017574"><i style="width:12.85%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-20T08:44:04.526151300+00:00">更新 2026-10-20 17:44</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 16%" title="PageRank 0.020140"><i style="width:16.36%"></i></span><div class="garden-body" markdown="1">
 
 <https://shirakami.site/roadside/roadside-top.html>
 
 
 ## ページリンク
 
+- [フォロー対象]({{ '/garden/follow-target/' | relative_url }})
 - [個人ウェブサイト集]({{ '/garden/personal-website/' | relative_url }})
 
 </div></article>
