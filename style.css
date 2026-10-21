@@ -86,10 +86,8 @@ li + li { margin-top: .6em; }
 .catalog-meta time { font-weight: 700; font-variant-numeric: tabular-nums; }
 .catalog-category { align-self: flex-start; overflow-wrap: anywhere; }
 .catalog-copy { min-width: 0; }
-.catalog-copy h2, .catalog-copy .catalog-title { margin-bottom: 9px; }
-.catalog-copy .catalog-title { font-size: 1.25rem; font-weight: 600; line-height: 1.5; }
+.catalog-copy h2 { margin-bottom: 9px; }
 .catalog-copy p { margin-bottom: .7em; overflow-wrap: anywhere; font-size: .92rem; line-height: 1.75; }
-.catalog-copy p.catalog-title { font-size: 1.25rem; line-height: 1.5; }
 .related-link { font-family: "LINE Seed JP", "Yu Gothic", sans-serif; font-size: .75rem !important; }
 .catalog-image { align-self: start; }
 .catalog-image img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
