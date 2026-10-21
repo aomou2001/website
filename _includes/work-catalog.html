@@ -10,7 +10,11 @@
             <a class="catalog-category" href="{{ category.url | relative_url }}">{{ category.label }}</a>
         </div>
         <div class="catalog-copy">
+            {% if include.category %}
+            <p class="catalog-title">{% if item.url %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</p>
+            {% else %}
             <h2>{% if item.url %}<a href="{{ item.url | relative_url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h2>
+            {% endif %}
             <p>{{ item.description }}</p>
             {% if item.related_links %}<p class="related-link">{% for link in item.related_links %}<a href="{{ link.url }}">{{ link.label }}</a>{% unless forloop.last %} {% endunless %}{% endfor %}</p>{% endif %}
             {% for video in item.videos %}
