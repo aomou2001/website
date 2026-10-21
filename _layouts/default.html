@@ -49,7 +49,7 @@
             <nav class="breadcrumb" aria-label="現在位置"><a href="{{ '/blog/' | relative_url }}">Diary</a><span>/</span><span>{{ page.date | date: "%Y.%m.%d" }}</span></nav>
             {% elsif page.url contains '/works/' %}
             <nav class="breadcrumb" aria-label="現在位置"><a href="{{ '/works.html' | relative_url }}">Works</a><span>/</span><span>{{ resolved_title | escape }}</span></nav>
-            {% elsif page.url contains '/practice/' %}
+            {% elsif page.url contains '/practice/' or page.url contains '/garden/description/' %}
             <nav class="breadcrumb" aria-label="現在位置"><a href="{{ '/garden/' | relative_url }}">Garden</a><span>/</span><span>{{ resolved_title | escape }}</span></nav>
             {% endif %}
 

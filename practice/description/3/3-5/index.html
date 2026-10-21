@@ -1,68 +1,9 @@
-<!doctype html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-  <title>Wide View Audio Window</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <header class="top">
-    <div class="topBar">
-      <button id="startBtn" type="button">Start</button>
-      <div class="info">
-        <span>set: <b id="setLabel">A</b></span>
-        <span>side: <b id="sideLabel">1</b></span>
-        <span>position: <b id="posLabel">0.50</b></span>
-      </div>
-    </div>
-
-    <p class="lead">
-      横にスワイプすると、1:3の広角映像を正方形で切り取った視界が動きます。
-      「振り返る」を押すと、ちょうど180度反対側の映像へ切り替わります。
-      音は画面位置に応じて左右成分を混ぜ、最終的にはモノラルで出力されます。
-    </p>
-  </header>
-
-  <main class="app">
-    <section class="carouselSection" aria-label="view carousel">
-      <div class="carouselViewport" id="carouselViewport">
-        <div class="carouselTrack" id="carouselTrack">
-          <article class="slide" data-index="0">
-            <div class="slideHeader">A</div>
-            <div class="viewFrame">
-              <div class="viewStage" id="stageA" aria-label="view A"></div>
-            </div>
-          </article>
-
-          <article class="slide" data-index="1">
-            <div class="slideHeader">B</div>
-            <div class="viewFrame">
-              <div class="viewStage" id="stageB" aria-label="view B"></div>
-            </div>
-          </article>
-
-          <article class="slide" data-index="2">
-            <div class="slideHeader">C</div>
-            <div class="viewFrame">
-              <div class="viewStage" id="stageC" aria-label="view C"></div>
-            </div>
-          </article>
-        </div>
-      </div>
-
-      <div class="dots" id="dots" aria-label="carousel pagination">
-        <button class="dot isActive" type="button" aria-label="Aを表示" data-index="0"></button>
-        <button class="dot" type="button" aria-label="Bを表示" data-index="1"></button>
-        <button class="dot" type="button" aria-label="Cを表示" data-index="2"></button>
-      </div>
-    </section>
-  </main>
-
-  <div class="bottomBar">
-    <button id="turnBtn" type="button">振り返る</button>
-  </div>
-
-  <script src="app.js"></script>
-</body>
-</html>
+---
+layout: practice-detail
+title: 場所の記述に関する習作-シリーズ3-5
+practice_series: 3
+series_url: /garden/description/3/
+permalink: /garden/description/3/3-5/
+---
+<p>横にスワイプして広角映像の視界を動かし、「振り返る」で反対側の映像に切り替える実験。画面位置に応じて左右の音を混ぜ、モノラルで出力した。</p>
+<p>2026年10月21日にアーカイブ、削除。動画6本・音声6本と実験用プログラム、制作ファイルは、サイト容量削減のため公開を終了しました。</p>
