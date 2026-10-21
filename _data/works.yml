@@ -1,18 +1,18 @@
 categories:
   plantshop:
     label: プラントショップ
-    url: /works/categories/plantshop.html
+    url: /works/plantshop/
     description: さまざまな分野を横断し、持続的に制作・展示・販売を行うためのコレクティブ「プラントショップ」で活動している。
     links:
       - label: プラントショップの公式ウェブサイト
         url: https://plantshop.work
   orion:
     label: 映像研究会
-    url: /works/categories/orion.html
+    url: /works/orion/
     description: 映像制作・鑑賞会・上映などをする「映像研究会オリヲン座」での活動や作品をまとめている。
   university:
     label: 大学
-    url: /works/categories/university.html
+    url: /works/university/
     description: 大学で制作した、ポスター、オブジェクト、建築設計、都市史調査、建築資料アーカイブと展示など。
 
 works:
@@ -21,7 +21,7 @@ works:
     category: plantshop
     featured: true
     roles: [企画, 進行, 制作]
-    url: /works/plantshop/seisan.html
+    url: /works/plantshop/seisan/
     description: >-
       「プラントショップ」の最初の活動として、自分たちにとってもっとも基本的な行為である「作る」ということを、あらためて見つめ直すことにした。社会の中で「作る」ことは、しばしば「生産」という言葉に置き換えられる。しかし、生産とは、価値ある商品や作品を新しく生み出すことだけなのだろうか。何かを選び、捨て、残し、整えること。普段は見過ごしているものに気づくこと。生活の中の小さな違和感や、手元の所作、物の変化を捉え直すこと。そうした行為もまた、私たちの日常を作り出しているのではないかと考えた。
     image: /works/assets/thumbnail-seisan.png
@@ -47,7 +47,7 @@ works:
     category: orion
     featured: true
     roles: [美術, 撮影]
-    url: /works/gelel.html
+    url: /works/orion/gelel/
     description: 映像研究会オリヲン座での作品。怪獣と巨人が戦い、防衛隊と駆け引きをする自主怪獣特撮映画。担当は主に美術で、特に京都駅前の街並みを模したジオラマや、それを支える土台等の設計・制作を行った。京都工芸繊維大学学祭での展示、コミュニティスペース「5.6」、イベント「kougei noel」、「全国自主怪獣映画選手権 特撮のまち・須賀川大会」にて上映された。自主怪獣映画選手権では田口清隆賞を受賞した。
     image: /assets/thumbnail-gelel.avif
     image_alt: 『GELEL』のジオラマ
@@ -70,7 +70,7 @@ works:
     category: university
     featured: true
     roles: [制作]
-    url: /works/furumainomokei.html
+    url: /works/university/furumainomokei/
     description: 大学の卒業制作。都市の小さな記憶を共有するための演劇、その仮設劇場の構想。都市や建築に潜む無意識的な意味を、地域のふるまいと空間の関係から読み解くことを考えた。演劇の模倣性を手がかりに、その地域固有の空間の型を「ふるまいの模型」として抽出し、劇場設計へ展開した。 同年の京都工芸繊維大学 卒業・終了研究展にて展示された。
     image: /assets/thumbnail-furumai.jpg
     image_alt: 『ふるまいの模型』展示風景
