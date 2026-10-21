@@ -5,7 +5,7 @@ heading: "プラントショップ"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-08T00:47:04.867315800+00:00">更新 2026-10-08 09:47</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 21%" title="PageRank 0.025715"><i style="width:20.89%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-08T00:47:04.867315800+00:00">更新 2026-10-08 09:47</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 25%" title="PageRank 0.030901"><i style="width:24.68%"></i></span><div class="garden-body" markdown="1">
 
 [梅田航輝]({{ '/garden/umedakouki/' | relative_url }})が所属し活動を行っているコレクティブ。
 
@@ -20,6 +20,7 @@ hide_description: true
 
 ## このページへの言及
 
+- [フォロー対象]({{ '/garden/follow-target/' | relative_url }})
 - [Gardenのナビゲーション]({{ '/garden/garden-navigation/' | relative_url }})
 - [コレクティブ「プラントショップ」を始めた]({{ '/garden/note-2026_plantshop/' | relative_url }})
 

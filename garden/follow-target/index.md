@@ -5,13 +5,13 @@ heading: "フォロー対象"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-20T07:30:04.919134500+00:00">更新 2026-10-20 16:30</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 20%" title="PageRank 0.024347"><i style="width:19.78%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-20T23:56:37.309622+00:00">更新 2026-10-21 08:56</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 18%" title="PageRank 0.022863"><i style="width:18.26%"></i></span><div class="garden-body" markdown="1">
 
 [梅田航輝]({{ '/garden/umedakouki/' | relative_url }})が活動や最新のお知らせなどを追う対象。SNSは気楽になんとなく見ているので、こうしたオフィシャルな情報を追うのに適していないと感じる。ここに書いておくことで、たまに訪れようと思う。
 
 ## alters
 
-[青木志央理]()
+青木志央理
 
 ・<https://book8mark8tree.github.io/>
 
@@ -35,17 +35,15 @@ hide_description: true
 
 <br />
 
-プラントショップ
+[プラントショップ]({{ '/garden/plantshop/' | relative_url }})
 
 ・<https://x.com/plant8shop>
 
-・<https://www.plantshop.work/>
+・[https://plantshop.work/](https://www.plantshop.work/)
 
 ・<https://note.com/plant8shop>
 
 ・<https://www.instagram.com/plant8shop/>
-
-・<https://plantshop.work/>
 
 ・<https://www.threads.com/@plant8shop>
 
@@ -63,7 +61,7 @@ tsukis HP
 
 <br />
 
-Gesu◎
+ゲス◎
 
 ・<https://x.com/Ge_su_wa>
 
@@ -125,8 +123,6 @@ vaults
 
 ・<https://vaultsjp.substack.com/>
 
-・<https://x.com/navy___navy>
-
 <br />
 
 宮崎晃吉
@@ -145,7 +141,7 @@ NTT ICC
 
 ・<https://x.com/NTTICC>
 
-・<https://hyper.ntticc.or.jp/>
+・<https://www.ntticc.or.jp/ja/>
 
 <br />
 
@@ -171,12 +167,6 @@ Argleton Lane
 
 <br />
 
-松村大地
-
-・<https://x.com/kiriesakka>
-
-<br />
-
 福尾匠
 
 ・<https://x.com/tweetingtakumi>
@@ -189,17 +179,9 @@ Argleton Lane
 
 <br />
 
-一般社団法人メタ観光推進機構
-
-・<https://x.com/metatourismjp>
-
-<br />
-
 orangcosong
 
 ・<https://x.com/orangcosong>
-
-・<https://orangcosong.stores.jp/>
 
 ・<https://note.com/orangcosong>
 
@@ -225,12 +207,6 @@ KIKA cas
 
 <br />
 
-Twelve Inc.
-
-・<https://x.com/Twelveinc_info>
-
-<br />
-
 居間 theater
 
 ・<https://x.com/imatheater>
@@ -252,14 +228,6 @@ mi-ri meter
 ・<https://note.com/bonigo>
 
 ・<https://yurinakanekosee.tumblr.com/>
-
-<br />
-
-ÉKRITS / エクリ
-
-・<https://x.com/ekrits>
-
-・<https://x.com/overkastjp>
 
 <br />
 
@@ -293,14 +261,6 @@ Ryu Furusawa
 
 <br />
 
-^gishi
-
-・<https://x.com/ymgsknt>
-
-・<https://github.com/k1105>
-
-<br />
-
 木内俊克
 
 ・<https://x.com/toshhhk>
@@ -326,14 +286,6 @@ mio m
 出町座
 
 ・<https://x.com/demachiza>
-
-<br />
-
-WWFes\_BAL
-
-・<https://x.com/bodyartslab>
-
-・<https://uhyr.info/>
 
 <br />
 
@@ -367,16 +319,6 @@ naokotamura\_VutterKohen
 
 <br />
 
-Masamitsu Araki
-
-・<https://x.com/araki_pa>
-
-・<https://www.instagram.com/arakiparamiz/>
-
-・<https://masamitsuaraki.format.com/>
-
-<br />
-
 Satoshi Nishizawa
 
 ・<https://x.com/_areti>
@@ -395,12 +337,6 @@ AHA!
 
 <br />
 
-人間座スタジオ
-
-・<https://x.com/ningenza_studio>
-
-<br />
-
 THEATRE E9 KYOTO
 
 ・<https://x.com/TheatreE9Kyoto>
@@ -412,12 +348,6 @@ Kenji Seo
 ・<https://x.com/_seokenji>
 
 ・<https://x.com/garage_arch>
-
-<br />
-
-contact Gonzo
-
-・<https://x.com/contact_Gonzo>
 
 <br />
 
@@ -478,6 +408,12 @@ HAPS
 ・<https://x.com/MinoryArts>
 
 ・<https://note.com/minory_nishikura>
+
+<br />
+
+OAO
+
+・<https://note.com/oao_jp>
 
 <br />
 
@@ -559,8 +495,6 @@ SKWAT
 
 ・<https://www.instagram.com/tunis_211/>
 
-・<https://drive.google.com/file/d/1mKaoyMDCanD0crmFfx_Pw3XuIAfZZ7vL/view>
-
 ・<https://x.com/tunis_211>
 
 ・<https://note.com/hikaru_tachibana>
@@ -625,9 +559,27 @@ Image Forum
 
 <br />
 
-東浩紀
+田中功起
 
-・<https://x.com/hazuma>
+・<https://www.kktnk.com/>
+
+・<https://www.instagram.com/tnk_koki/>
+
+・<https://vimeo.com/kktnk>
+
+・<https://www.youtube.com/user/kktnk1975>
+
+<br />
+
+布施琳太郎
+
+・<https://rintarofuse.com/>
+
+・<https://x.com/rintarofuse>
+
+・<https://www.instagram.com/rintarofuse/>
+
+・<https://note.com/rintarofuse>
 
 
 ## ページリンク

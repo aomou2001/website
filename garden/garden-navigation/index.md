@@ -5,7 +5,7 @@ heading: "Gardenのナビゲーション"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T07:01:25.541792+00:00">更新 2026-10-18 16:01</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 41%" title="PageRank 0.050294"><i style="width:40.85%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T07:01:25.541792+00:00">更新 2026-10-18 16:01</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 38%" title="PageRank 0.048148"><i style="width:38.46%"></i></span><div class="garden-body" markdown="1">
 
 [梅田航輝]({{ '/garden/umedakouki/' | relative_url }})
 

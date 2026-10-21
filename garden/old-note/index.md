@@ -5,7 +5,7 @@ heading: "旧「ノート」"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T06:52:45.637655200+00:00">更新 2026-10-18 15:52</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 45%" title="PageRank 0.055211"><i style="width:44.84%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T06:52:45.637655200+00:00">更新 2026-10-18 15:52</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 45%" title="PageRank 0.056376"><i style="width:45.03%"></i></span><div class="garden-body" markdown="1">
 
 2026年8月まで「ホーム」、「活動・作品」、「ノート」、「日記」の4コンテンツがあったが、新たに[Wiki]({{ '/garden/wiki/' | relative_url }})的な運用をする[Garden]({{ '/garden/garden/' | relative_url }})を作成したため、そこに「ノート」を統合した。
 

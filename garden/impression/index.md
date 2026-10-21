@@ -5,7 +5,7 @@ heading: "感想"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-19T22:50:08.294441300+00:00">更新 2026-10-20 07:50</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 21%" title="PageRank 0.025293"><i style="width:20.54%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-19T22:50:08.294441300+00:00">更新 2026-10-20 07:50</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 20%" title="PageRank 0.024558"><i style="width:19.62%"></i></span><div class="garden-body" markdown="1">
 
 ## ページリンク
 
