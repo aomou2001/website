@@ -5,7 +5,7 @@ heading: "個人ウェブサイト集"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-20T22:49:20.086385600+00:00">更新 2026-10-21 07:49</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 24%" title="PageRank 0.030138"><i style="width:24.27%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-11-09T05:24:37.431067900+00:00">更新 2026-11-09 14:24</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 24%" title="PageRank 0.030138"><i style="width:24.27%"></i></span><div class="garden-body" markdown="1">
 
 ## ego
 
@@ -29,7 +29,7 @@ tsukis HP：<https://tsukis-hp.pages.dev/>
 
 yuinoid / いど子：<https://yuinoid.neocities.org/>
 
-橋本麦：<https://baku89.com/>
+銭 清弘：<https://www.senkiyohiro.com/>
 
 
 ## ページリンク

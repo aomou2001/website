@@ -13,8 +13,8 @@ hide_description: true
 
 ## このページへの言及
 
-- [フォロー対象]({{ '/garden/follow-target/' | relative_url }})
 - [個人ウェブサイト集]({{ '/garden/personal-website/' | relative_url }})
+- [フォロー対象]({{ '/garden/follow-target/' | relative_url }})
 - [Gardenのナビゲーション]({{ '/garden/garden-navigation/' | relative_url }})
 - [プラントショップ]({{ '/garden/plantshop/' | relative_url }})
 
