@@ -5,7 +5,7 @@ heading: "フォロー対象"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-20T23:56:37.309622+00:00">更新 2026-10-21 08:56</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 18%" title="PageRank 0.022863"><i style="width:18.26%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-20T23:56:37.309622+00:00">更新 2026-10-21 08:56</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 18%" title="PageRank 0.022675"><i style="width:18.26%"></i></span><div class="garden-body" markdown="1">
 
 [梅田航輝]({{ '/garden/umedakouki/' | relative_url }})が活動や最新のお知らせなどを追う対象。SNSは気楽になんとなく見ているので、こうしたオフィシャルな情報を追うのに適していないと感じる。ここに書いておくことで、たまに訪れようと思う。
 
