@@ -5,7 +5,7 @@ heading: "生成AIを活用した個人用アプリ群の設計と開発"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T11:49:20.937418800+00:00">更新 2026-10-18 20:49</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 7%" title="PageRank 0.008212"><i style="width:6.61%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-18T11:49:20.937418800+00:00">更新 2026-10-18 20:49</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 6%" title="PageRank 0.010106"><i style="width:6.46%"></i></span><div class="garden-body" markdown="1">
 
 以下の記事は画像含め全文ChatGPTによるものである。
 
@@ -85,7 +85,7 @@ Spatiographyは、画像、短い動画、テキストを自由なボードに�
 
 Monitologは、Windowsのカメラとマイクで定点記録を行い、後から鑑賞するアプリだ。現在の設定では、録画処理が動いている間、10分ごとに3秒を収録する。光が変わり、椅子が動き、机の上のものが増える。短い断片をつないで眺めると、部屋が時間を持っていることが見えてくる。
 
-<span class="garden-media garden-image"><img src="{{ '/assets/garden/3b177e93-45d2-4384-80eb-2b6072a2f293.jpg' | relative_url }}" alt="Monitologの鑑賞画面" loading="lazy"></span>
+
 
 *日時から映像を選ぶ鑑賞画面。撮影日時の表示と時間バーで、過去の部屋をたどる。*
 

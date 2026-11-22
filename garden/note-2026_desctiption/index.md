@@ -5,7 +5,7 @@ heading: "場所の記述についての習作"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-21T04:09:32.256054900+00:00">更新 2026-10-21 13:09</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 26%" title="PageRank 0.032513"><i style="width:26.18%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-10-21T04:09:32.256054900+00:00">更新 2026-10-21 13:09</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 20%" title="PageRank 0.031844"><i style="width:20.36%"></i></span><div class="garden-body" markdown="1">
 
 * [シリーズ1（YouTube）](https://youtu.be/wbiqQ-mI8yw)
 
@@ -67,7 +67,6 @@ hide_description: true
 
 ## ページリンク
 
-- [作ることと見ること]({{ '/garden/note-2026_interest2/' | relative_url }})
 - [旧「ノート」]({{ '/garden/old-note/' | relative_url }})
 - [無意識的な場所の意味と、その共有について]({{ '/garden/note-2026_interest/' | relative_url }})
 

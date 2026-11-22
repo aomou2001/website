@@ -5,7 +5,7 @@ heading: "旧「ノート」"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-10-18T06:52:45.637655200+00:00">更新 2026-10-18 15:52</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 45%" title="PageRank 0.055913"><i style="width:45.03%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-11-11T02:17:58.490432900+00:00">更新 2026-11-11 11:17</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 41%" title="PageRank 0.064041"><i style="width:40.95%"></i></span><div class="garden-body" markdown="1">
 
 2026年8月まで「ホーム」、「活動・作品」、「ノート」、「日記」の4コンテンツがあったが、新たに[Wiki]({{ '/garden/wiki/' | relative_url }})的な運用をする[Garden]({{ '/garden/garden/' | relative_url }})を作成したため、そこに「ノート」を統合した。
 
@@ -14,7 +14,6 @@ hide_description: true
 
 - [『GELEL』での作業プロセス]({{ '/garden/note-process/' | relative_url }})
 - [コレクティブ「プラントショップ」を始めた]({{ '/garden/note-2026_plantshop/' | relative_url }})
-- [作ることと見ること]({{ '/garden/note-2026_interest2/' | relative_url }})
 - [場所の記述についての習作]({{ '/garden/note-2026_desctiption/' | relative_url }})
 - [無意識的な場所の意味と、その共有について]({{ '/garden/note-2026_interest/' | relative_url }})
 

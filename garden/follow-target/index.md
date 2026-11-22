@@ -5,7 +5,7 @@ heading: "フォロー対象"
 garden_page: true
 hide_description: true
 ---
-<article class="garden-note-reader"><time datetime="2026-11-09T04:56:52.115855800+00:00">更新 2026-11-09 13:56</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 18%" title="PageRank 0.022675"><i style="width:18.26%"></i></span><div class="garden-body" markdown="1">
+<article class="garden-note-reader"><time datetime="2026-11-10T02:08:03.555772900+00:00">更新 2026-11-10 11:08</time><span class="garden-rank garden-page-rank" role="img" aria-label="つながりの強さ 18%" title="PageRank 0.027992"><i style="width:17.90%"></i></span><div class="garden-body" markdown="1">
 
 [梅田航輝]({{ '/garden/umedakouki/' | relative_url }})が活動や最新のお知らせなどを追う対象。SNSは気楽になんとなく見ているので、こうしたオフィシャルな情報を追うのに適していないと感じる。ここに書いておくことで、たまに訪れようと思う。
 
@@ -81,20 +81,6 @@ ALC Library\&Gallery
 
 ## strangers
 
-橋本麦
-
-・<https://baku89.com/>
-
-・<https://x.com/_baku89>
-
-<br />
-
-yuinoid / いど子
-
-・<https://yuinoid.neocities.org/>
-
-<br />
-
 姉咲 たくみ
 
 ・<https://x.com/TakumiAnezaki>
@@ -125,12 +111,6 @@ vaults
 
 <br />
 
-宮崎晃吉
-
-・<https://x.com/mitsucoshi>
-
-<br />
-
 HAGISO
 
 ・<https://x.com/hagiso1955>
@@ -142,12 +122,6 @@ NTT ICC
 ・<https://x.com/NTTICC>
 
 ・<https://www.ntticc.or.jp/ja/>
-
-<br />
-
-BOOK SHOP 無用之用
-
-・<https://x.com/muyobooks>
 
 <br />
 
@@ -183,8 +157,6 @@ orangcosong
 
 ・<https://x.com/orangcosong>
 
-・<https://note.com/orangcosong>
-
 ・<https://orangcosong.com/>
 
 <br />
@@ -198,12 +170,6 @@ Daisuke Nakazawa
 umeda takuya
 
 ・<https://x.com/umdtky>
-
-<br />
-
-KIKA cas
-
-・<https://x.com/KIKAgallery>
 
 <br />
 
@@ -243,15 +209,7 @@ mi-ri meter
 
 ・<https://x.com/sasakiyusuke>
 
-・<https://x.com/hyosuK_S>
-
 ・<https://note.com/sasakiyusuke>
-
-<br />
-
-Ryu Furusawa
-
-・<https://x.com/ryufurusawa>
 
 <br />
 
@@ -267,31 +225,15 @@ Ryu Furusawa
 
 <br />
 
-mio m
-
-・<https://x.com/mio427m>
-
-<br />
-
 岩井俊二映画祭
 
 ・<https://x.com/iwaiff>
-
-・<https://swallowtail4k.jp/>
-
-・<https://www.youtube.com/@iwaiff>
 
 <br />
 
 出町座
 
 ・<https://x.com/demachiza>
-
-<br />
-
-森脇透青
-
-・<https://x.com/satodex>
 
 <br />
 
@@ -329,12 +271,6 @@ AHA!
 
 ・<https://x.com/_aha_2005>
 
-・<https://aha.ne.jp/iremember/>
-
-・<https://note.com/aha_2005>
-
-・<https://aha.ne.jp/>
-
 <br />
 
 THEATRE E9 KYOTO
@@ -360,12 +296,6 @@ TOKYO PHOTOGRAPHIC RESEARCH news
 京都芸術センター
 
 ・<https://x.com/Kyoto_artcenter>
-
-<br />
-
-works\_hop
-
-・<https://x.com/works_hop>
 
 <br />
 
@@ -469,8 +399,6 @@ SKWAT
 
 ・<https://www.instagram.com/skwat.site/>
 
-・<https://linktr.ee/SKWAT>
-
 <br />
 
 日常記憶地図
@@ -497,10 +425,6 @@ SKWAT
 
 ・<https://x.com/tunis_211>
 
-・<https://note.com/hikaru_tachibana>
-
-・<https://www.threads.com/@tunis_211>
-
 <br />
 
 Chikara Fujiwara
@@ -508,8 +432,6 @@ Chikara Fujiwara
 ・<https://www.instagram.com/chikara_orangcosong/>
 
 ・<https://orangcosong.com/>
-
-・<https://www.threads.com/@chikara_orangcosong>
 
 <br />
 
@@ -533,23 +455,11 @@ Agoraphobic Traveller
 
 <br />
 
-小林楓太
-
-・<https://www.instagram.com/fu_ha_kaededesu/>
-
-・<https://note.com/fair_plover288>
-
-<br />
-
 Image Forum
-
-・<https://www.instagram.com/image_forum/>
 
 ・<http://www.imageforum.co.jp/>
 
 ・<https://www.imageforumfestival.com/>
-
-・<https://www.imageforum.co.jp/school/>
 
 <br />
 
@@ -571,15 +481,15 @@ Image Forum
 
 <br />
 
-布施琳太郎
+空族
 
-・<https://rintarofuse.com/>
+・<https://www.kuzoku.com/>
 
-・<https://x.com/rintarofuse>
+<br />
 
-・<https://www.instagram.com/rintarofuse/>
+VACANCE
 
-・<https://note.com/rintarofuse>
+・<https://vacancepictures.wordpress.com/>
 
 
 ## ページリンク
